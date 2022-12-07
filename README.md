@@ -1,4 +1,5 @@
 # data_science_study_material
+A curated list of Data Science related videos, links, projects and datasets to help you conquer the Data Science landscape in 6 months
 
 ## Materials for SQL
 
